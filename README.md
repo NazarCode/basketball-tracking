@@ -98,14 +98,6 @@ results = model.track(
 
 ---
 
-## Roadmap (nice-to-have)
-
-* [ ] Sample clip + demo GIF in README
-* [ ] Document JSON schema for analytics exports
-* [ ] Provide `requirements.txt` / pinned versions
-* [ ] Minimal notebook for quick experimentation
-
----
 
 ## Contributing
 
