@@ -1,0 +1,13 @@
+{
+  "scores": [],
+  "performance": {
+    "total_frames": 0,
+    "processing_time": 0,
+    "scores_detected": 0,
+    "avg_fps": 0
+  },
+  "summary": {
+    "total_scores": 0,
+    "teams_detected": 0
+  }
+}

@@ -1,0 +1,17 @@
+augment:
+  hsv_h: 0.015         # Slight hue shift
+  hsv_s: 0.7           # Saturation variation
+  hsv_v: 0.4           # Brightness variation
+  degrees: 5           # Small rotation
+  translate: 0.1       # Shift images
+  scale: 0.5           # Can zoom out 50% or zoom in 150%
+  shear: 2.0           # Perspective shear
+  perspective: 0.0005  # Very small perspective warp
+  flipud: 0.0          # No vertical flip
+  fliplr: 0.5          # Horizontal flip (common in sports)
+  mosaic: 1.0          # Always use mosaic (great for small objects)
+  mixup: 0.15          # Blend images
+  copy_paste: 0.0      # Not useful for balls
+
+# Optional: ensure random cropping keeps small objects
+rect: False

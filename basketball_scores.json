@@ -1,0 +1,46 @@
+[
+  {
+    "time": 10.110100000000001,
+    "timestamp": "00:10",
+    "rim_position": [
+      1033,
+      330
+    ],
+    "player": "Player 4",
+    "ball_id": 11,
+    "confidence": 0.8425073657709753
+  },
+  {
+    "time": 10.110100000000001,
+    "timestamp": "00:10",
+    "rim_position": [
+      1045,
+      332
+    ],
+    "player": "Player 7",
+    "ball_id": 11,
+    "confidence": 0.8569842857686286
+  },
+  {
+    "time": 11.1111,
+    "timestamp": "00:11",
+    "rim_position": [
+      1018,
+      327
+    ],
+    "player": "Player 9",
+    "ball_id": 11,
+    "confidence": 0.73125
+  },
+  {
+    "time": 11.244566666666667,
+    "timestamp": "00:11",
+    "rim_position": [
+      1031,
+      329
+    ],
+    "player": "Player 4",
+    "ball_id": 11,
+    "confidence": 0.73125
+  }
+]
